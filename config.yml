@@ -26,9 +26,9 @@ db:
   # PostgreSQL / MySQL / MariaDB / MS SQL Server only:
   host: localhost
   port: 3306
-  user: wikijs
-  pass: wikijs2024
-  db: wiki
+  user: ootshub_wikijs
+  pass: H)xse8zjWWEU
+  db: ootshub_wiki
   ssl: false
 
   # Optional - PostgreSQL / MySQL / MariaDB only:
